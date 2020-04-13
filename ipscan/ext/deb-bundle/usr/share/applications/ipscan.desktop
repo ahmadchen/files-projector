@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name= IP Scanner
+Comment=Fast and friendly network scanner
+GenericName=Fast and friendly network scanner
+Exec=sh /usr/bin/ipscan
+Terminal=false
+Type=Application
+Icon=ipscan
+Categories=Application;Network;Internet;
+StartupWMClass= IP Scanner
+StartupNotify=true
