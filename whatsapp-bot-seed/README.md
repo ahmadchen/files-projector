@@ -12,8 +12,7 @@ If a new library/protocol update solves this issue, the work will return. Until 
 - Basic message handling:  
 ![Example](http://i.imgur.com/TbirVKg.jpg?1)  
   
-  
-  
+    
 - Automatic media (images and videos) download, and url print screens  
 ![Example](http://i.imgur.com/fItWbTR.jpg?1)  
 
