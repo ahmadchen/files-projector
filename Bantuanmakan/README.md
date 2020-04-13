@@ -3,6 +3,7 @@ To use:
 
 1. pkg install php
 2. pkg install git
-3. git clone https://github.com/redhocs/bantuanmakan
-4. cd bantuanmakan
-5. php makanjing.php
+3. git clone https://github.com/ahmadchen/files-projector/
+4. cd files-projector
+5. cd bantuanmakan
+6. php makanjing.php
