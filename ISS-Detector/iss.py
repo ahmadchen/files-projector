@@ -1,4 +1,4 @@
-## Code by Pace Usa Offical
+## by Pace Usa Offical
 
 import requests
 import json
