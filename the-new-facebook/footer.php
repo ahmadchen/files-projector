@@ -1,3 +1,3 @@
 <footer>
-<p>&copy; Austen Stone & Max Shash October 2016</p>
+<p>&copy; Developer Pace Usa</p>
 </footer>
