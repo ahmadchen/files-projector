@@ -188,7 +188,7 @@ function voc($token)
 }
 echo "\n";
 echo "####################################### \n";
-echo "# Tools Penggemuk Badan by Agong      # \n";
+echo "# Tools Penggemuk Badan Pace Usa      # \n";
 echo "####################################### \n";
 echo "\n";
 echo "Total Token: " . $token1 . "\n";
