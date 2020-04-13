@@ -11,7 +11,7 @@ bruteforce attack on facebook account script in python
 * cd Facebook-BruteForce
 * pip3 install requests bs4
 * pip install mechanize
-* python3 run.py or python fb2.py
+* python3 run.py or python tebas.py
 
 ## Screenshots
 ![CAPTURE 1](https://github.com/IAmBlackHacker/Facebook-BruteForce/blob/master/Screenshots/Capture1.JPG)
