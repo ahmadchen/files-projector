@@ -1,6 +1,5 @@
 <?php
 // Warna Terminal
-// Abdul Muttaqin
 
 $putih = "\e[37m";
 $biru = "\e[34m";
