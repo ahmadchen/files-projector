@@ -1,0 +1,14 @@
+Package: ipscan
+Section: net
+Version: VERSION-1
+Priority: optional
+Architecture: ARCH
+Installed-Size: 1940
+Depends: openjdk-12-jre | openjdk-11-jre | openjdk-10-jre | oracle-java10-installer | openjdk-9-jre | oracle-java9-installer | openjdk-8-jre | oracle-java8-installer
+Maintainer: Developerpaceusaoffical <developerpaceusa@gmail.com>
+Description: IP Scanner - fast and friendly IP Scanner
+  IP Scanner is a cross-platform network scanner written in Java.
+ It can scan IP-based networks in any range, scan ports, and resolve
+ other information.
+ The program provides an easy to use GUI interface and is very extensible,
+ see for more information.
