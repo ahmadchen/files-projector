@@ -1,0 +1,384 @@
+3Com OfficeConnect VPN Firewall
+3S Vision
+Aastra AXS 5000
+Aastra IP Phone
+Aastra OpenCom 1000
+ACTi Camera
+Adcon Telemetry Gateway
+Adtran NetVanta
+Airlink ACEmanager
+AirTies router
+Allied Telesis AR
+Allnet Camera
+American Dynamics IP Dome
+Ansible AWX
+Apache ActiveMQ
+Apache Ambari
+Apache Axis2
+Apache Ofbiz
+Apache Tomcat Host Manager
+Apache Tomcat Manager
+APC InfraStruXure Central
+APC InfraStruXure PDU
+APC Management Card
+APC Management Card (basic auth)
+Areca RAID
+Arecont Vision (basic auth)
+Arecont Vision (no auth)
+Arris Touchstone
+Aruba AirWave
+ArubaOS WebUI
+ASUS router
+ASUS RX3041
+ASUS TM router
+Asustor ADM
+Automa Lilliput2
+Avigilon Camera
+Avocent Explorer
+AVTech AVC DVR
+AVTech IP Camera
+AXIS 2100 Network Camera
+AXIS C/M/P/V Series Device
+AXIS Entry Manager
+AXIS Network Video Door Station
+Basler Camera
+BeEF
+Belkin/Arris 2307
+Belkin G Wireless Router
+Beward SIP Door Station
+Bomgar Appliance
+Brickcom Camera
+Brovotech IPCAM
+Cacti
+Canon Camera
+Canon imageRunner Advance
+CapeSoft TimeClock
+Cisco Configuration Utility (var.1)
+Cisco Configuration Utility (var.2)
+Cisco DPC3848VM
+Cisco EPC3925
+Cisco IOS
+Cisco IronPort
+Cisco Linksys
+Cisco Router Access
+Cisco Small Business 200
+Cisco TelePresence
+Citrix NetScaler
+Citrix NetScaler MAS
+Cloudera Manager
+ComfortableMexicanSofa
+Comtrend NexusLink-5631
+Corega
+CS121 UPS Web/SNMP Manager
+Dahua Security
+Datum Systems SnIP
+Dell DRAC4
+Dell DRAC5
+Dell ERA
+Dell iDRAC6/7 (Mbedthis)
+Dell iDRAC6 (lighttpd)
+Deva Broadcast
+Deva Broadcast (basic auth)
+Device42 Appliance Manager
+Dialogic PowerMedia XMS Console
+Dialogic PowerMedia XMS NodeController
+Dialogic PowerMedia XMS RESTful API
+Digital Watchdog
+Digi TransPort
+D-Link Camera
+D-Link DIR-620
+D-Link DIR router (basic auth)
+D-Link DIR router (var.1)
+D-Link DIR router (var.2)
+D-Link DIR router (var.3)
+D-Link DSL router
+D-Link DSL router (basic auth)
+D-Link DSL T router (basic auth)
+D-Link SharePort Web Access
+DM Digital Sprite 2
+DM NetVu
+EFI Fiery Webtools
+EMC VMAX vApp Manager
+Emerson EC2
+Emerson Xweb
+EverFocus ECORHD
+exacqVision
+ExtraHop Web UI
+F5 BIG-IQ
+F5 TMOS
+Foscam IP Camera
+Foscam Netwave (var.1)
+Foscam Netwave (var.2)
+Foxconn Femtocell
+Genetec Synergis
+GeoVision Camera
+GeoVision WebControl
+GeoVision Web-Manager
+GLPI
+Grafana
+Grandstream Camera
+Grandstream GXP2200
+Grandstream VoIP Device
+Greenbone Security Assistant
+Harmonic NSG 9000
+HD IPC IP camera
+Heatmiser NetMonitor 1.x
+Heatmiser NetMonitor 3.0x
+Heatmiser NetMonitor 3.x
+Heatmiser Wifi Thermostat
+Hikvision (var.1)
+Hikvision (var.2)
+Hippo CMS
+HP 3PAR SSMC
+HP 9000 iLO
+HP Power Manager
+HP ProCurve Switch
+HP StorageWorks SMU
+Huawei USG
+iBall Baton
+IBM Integrated Management Module
+IBM Storwize V3700
+iBoot
+iBoot Bar
+iBoot G2
+Ilias (var.1)
+Ilias (var.2)
+InfraPower PPS-02-S
+Interlogix truVision
+IPCC P2P Camera
+IQinVision Camera (var.1)
+IQinVision Camera (var.2)
+IQinVision Camera (var.3)
+IQinVision Camera (var.4)
+IRTE Digital Radio Link
+ITX Web Remote Viewer
+Jacarta interSeptor
+JBoss EAP Admin Console
+JBoss JMX Console
+JBoss Web Console
+Jitamin
+JVC Broadcaster
+JVC VN-xxx Camera
+JVC VR-8xx DVR
+Kanboard
+Kyocera Command Center
+Kyocera Command Center (basic auth)
+Kyocera Command Center RX
+Lantronix SLB/SLC
+Lantronix ThinWeb Manager
+Lantronix XPort
+LevelOne WCS-0050 Camera
+LG Smart IP Device
+LILIN NVR
+Link-Net LW/LWH router
+Loxone Intercom Video
+Loxone Smart Home
+ManageEngine OpManager 10/11
+ManageEngine OpManager 12
+MayGion Camera
+MayGion Camera (no auth)
+MBus Webserver
+Mediatrix
+Mediatrix (basic auth)
+Mediatrix iPBX
+Microseven IP camera
+Milesight Camera (Alphafinity)
+Milesight Camera (Beward)
+Milesight Camera (var.1)
+Milesight Camera (var.2)
+Mimosa Relay
+MOBOTIX Camera
+Motorola AP
+Motorola RF Switch
+Moxa AirWorks
+Moxa EDR (var.1)
+Moxa EDR (var.2)
+Moxa EDR (var.3)
+Moxa EDR (var.4)
+Moxa EDR (var.5)
+Moxa MiiNePort
+Nagios
+NAS4Free
+Netcomm 3G17Wn
+NetComm 3G21WB
+NetComm 3G42WT
+NetComm ADSL router
+Netcomm NTC
+Netgear Gigabit Enterprise Switch
+Netgear Intelligent Edge
+Netgear ProSafe Firewall FVS318
+Netgear ProSafe Plus Switch
+Netgear ReadyDATA OS
+Netgear ReadyNAS OS 6
+Netgear ReadyNAS RAIDiator
+Netgear Router
+Netgear Router (legacy)
+Netgear Smart Switch
+Network Video Server (var.1)
+Network Video Server (var.2)
+Network Video Server (var.3)
+Nortel VPN Router
+ntopng
+NUUO NVR
+NUUO Solo NVR
+NUUO Solo NVR OEM
+NUUO Titan NVR
+OEM Boa IP Camera (var.1)
+OEM Boa IP Camera (var.2)
+OEM Boa IP Camera (var.3)
+OEM DVR
+OEM GoAhead-Webs IP Camera
+OEM MegapixelIPCamera
+OEM Netcam
+Opencast
+Opencast Matterhorn
+OpenDaylight
+OpenMediaVault
+OpenNMS
+Openstage IP Phone
+Option GlobeSurfer II
+Option GlobeSurfer III
+OrientDB Studio
+OSGi Management Console
+OTRS
+Ovislink AirLive AP
+Ovislink AirLive (basic auth)
+Ovislink AirLive BU
+Ovislink AirLive WIAS (var.1)
+Ovislink AirLive WIAS (var.2)
+PacketFront DRG600
+Pakedge C36 Macrocell Controller
+Panasonic Network Camera
+PCoIP Zero Client
+pfSense (var.1)
+pfSense (var.2)
+Phasefale JouleAlarm/JouleTemp
+Philips InSight
+Pivotal RabbitMQ
+Planet IP Cam
+Planet IP Surveillance
+PLANET Managed Switch (var.1)
+PLANET Managed Switch (var.2)
+PLANET Managed Switch (var.3)
+PLANET Smart Gigabit Switch
+PLANET Wireless Router
+Planex Broad Lanner
+Planex CS
+Plumtree Portal
+Polycom RMX 1000
+Polycom RMX 500
+Polycom RPAD
+Polycom RSS 4000
+Polycom SoundPoint (basic auth)
+Polycom SoundPoint (var.1)
+Polycom SoundPoint (var.2)
+Pravis Systems DVR
+Proliphix Thermostat
+ProMinent Controller
+Pure Storage
+Quest DR
+RainLoop Webmail
+RICOH Web Image Monitor
+Riello UPS NetMan 204
+RockMongo
+Rubytech chassis
+Sagitta Hashstack
+Sambar Server
+Samsung DVR
+Samsung iPOLiS
+Samsung SyncThru (var.1)
+Samsung SyncThru (var.2)
+Santec IPCamera
+Sanyo Network Camera (admin auth)
+Sanyo Network Camera (no auth)
+Sanyo Network Camera (user auth)
+Schneider Modicon Web
+Schneider Xflow
+ScreenOS
+Seagate BlackArmor NAS (var.1)
+Seagate BlackArmor NAS (var.2)
+Sea Tel MXP
+Sentry360 FS-IP5000 Camera
+SerVision TVG
+SevOne NMS
+Sharp Printer
+Sharp Printer (basic auth)
+Siedle Door Controller
+Siemens Gigaset SX762/763
+Siemens RUGGEDCOM ROS (var.1)
+Siemens RUGGEDCOM ROS (var.2)
+Siemens RUGGEDCOM ROX
+Siemens RUGGEDCOM WIN
+Siemens Scalance M873/M875
+Siemens Scalance X-200
+Silex Server (var.1)
+Silex Server (var.2)
+Sony Network Camera (Boa 1)
+Sony Network Camera (Boa 2)
+Sony Network Camera (NetEVI/Virgo)
+Sony Network Camera (thttpd)
+Speco IP Camera
+Sunny Central (var.1)
+Sunny Central (var.3)
+Sunny WebBox/Central (var.2)
+Sunny WebBox (var.1)
+Supermicro IPMI
+TCS Basys Controls Communication Center
+TeamPass
+Teles Gateway
+Thrane & Thrane Sailor 900 VSAT (var.1)
+Thrane & Thrane Sailor 900 VSAT (var.2)
+TI Megapixel IP Camera
+Toshiba Canvio
+Toshiba TopAccess HD
+Toshiba TopAccess SY
+TP-Link (basic auth)
+TP-Link IPC
+TP-Link (MD5 cookie)
+TP-Link (plain cookie)
+TrendChip ADSL Modem
+Truen TCAM (var.1)
+Truen TCAM (var.2)
+TVT DVR
+Ubiquiti AirOS
+Ubiquiti EdgeOS
+Ubiquiti EdgeSwitch
+Ubiquiti UniFi Video (var.1)
+Ubiquiti UniFi Video (var.2)
+VideoFlow DVP
+VideoIQ iCVR
+VMware ESXi
+VMware vCloud Connector
+Wago I/O System 750
+Wago TO-PASS
+WebLogic Server Console
+WebSphere Community Edition Console
+Westell
+Western Digital My Cloud
+WiseGiga
+Xerox CentreWare (basic auth)
+Xerox CentreWare (basic auth var.1)
+Xerox CentreWare (basic auth var.2)
+Xerox CentreWare (basic auth var.3)
+Xerox CentreWare (basic auth var.4)
+Xerox CentreWare (basic auth var.5)
+Xerox CentreWare (basic auth var.6)
+Xerox CentreWare (var.1)
+Xerox CentreWare (var.2)
+Xiongmai NETSurveillance
+Xplico
+Yamaha RT 10.x
+Yamaha RT 11.x
+Yamaha SWX
+Yealink IP Phone
+Zabbix
+Zebra Printer
+Zebra Print Server
+ZKSoftware WebServer
+Zoom ADSL X5
+ZTE F660
+ZTE ZXV10 I5xx
+ZTE ZXV10 W300
+ZyXEL Prestige
+ZyXEL ZyWALL (var.1)
+ZyXEL ZyWALL (var.2)
