@@ -1,0 +1,13 @@
+KNTLCMSv.2
+
+Cara install
+1.CHMOD 755 FOLDER "img"
+2.CHMOD 755 FILE "config.php"
+3.buka alamatwebsite.com/install (jika tidak bisa coba alamatwebsite.com/install/index.php)
+4.setelah install HAPUS FOLDER "install"
+
+WARNING!!!
+DILARANG KERAS DISTIRBUSI DAN MODIFIKASI CMS TANPA IZIN
+Contact me telegram @cardingtutorialfreeindonesia_bot
+
+ALLAH MAHA MELIHAT!
