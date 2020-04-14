@@ -1,0 +1,106 @@
+body {
+  background-color: #1F2135
+}
+a {
+  color: #3498DB;
+}
+a:hover {
+  color: #3498DB;
+}
+.form-control {
+  border-color: #BBB;
+}
+.form-control:focus {
+  border-color: #3498DB;
+}
+input[type="text"]:disabled {
+  background-color: #fff;
+}
+.header h3 {
+   text-align: center;
+   color: #fff;
+}
+.footer {
+   text-align: center;
+}
+#toggler,#toggler1,#toggler2 {
+  cursor: pointer;
+}
+#toggled,#toggled1,#toggled2{
+  padding: 15px 15px 5px;
+}
+.jumbotron {
+   font-size: 16px;
+   padding: 30px 20px;
+   border:1px solid #007FFF;
+}
+.jumbotron .btn {
+   margin: 0 0 -10px;
+}
+
+input[type="text"] {
+   font-size: 18px;
+   color:#007FFF;
+   font-weight: bold;
+}
+input[type="text"]::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #CCCCCC;
+}
+input[type="text"]:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #CCCCCC;
+}
+input[type="text"]::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #CCCCCC;
+}
+input[type="text"]:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #CCCCCC;
+}
+input[type="radio"] {
+   font-size: 12px !important;
+}
+
+#goodnews{
+   margin-top: -20px;
+}
+#listPanel {
+  display: none;
+}
+#listTable tr {
+  text-align: center;
+}
+#listTable th {
+  text-align: center;
+}
+
+.label {
+  border-radius: 2em;
+}
+.labelbesar {
+  font-size: 1em;
+}
+.nb {
+  font-size: 13px !important;
+  margin-top: -40px;
+  font-style: italic;
+}
+.btn {
+  margin-bottom: 5px;
+}
+label {
+  font-weight: normal;
+  font-size: 18px;
+}
+
+/*** custom checkboxes ***/
+input[type=checkbox] { display:none; } /* to hide the checkbox itself */
+input[type=checkbox] + label:before {
+  font-family: FontAwesome;
+  display: inline-block;
+  font-size: 18px;
+}
+
+input[type=checkbox] + label:before { content: "\f096"; } /* unchecked icon */
+input[type=checkbox] + label:before { letter-spacing: 7px; } /* space between checkbox and label */
+
+input[type=checkbox]:checked + label:before { content: "\f046"; } /* checked icon */
+input[type=checkbox]:checked + label:before { letter-spacing: 4px; } /* allow space for check mark */
