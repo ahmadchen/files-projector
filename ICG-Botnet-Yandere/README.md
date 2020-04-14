@@ -8,8 +8,7 @@ PHP Botnet For Ddos
 
 [![How To Make Botnet (2020)](https://i.ytimg.com/vi/P-zUkBOgdwY/maxresdefault.jpg)](https://www.youtube.com/)
 
-ICG Botnet (GSH) : https://watugedhe.blogspot.co.id/2017/04/icg-botnet-by-yukinoshita-47-gsh.html?m=1
-______________________________________
+ICG Botnet (GSH) : 
 
 ICG-BOTNET "Pace Usa Offical"
 
