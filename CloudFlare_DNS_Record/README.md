@@ -1,9 +1,8 @@
 # CloudFlare_DDNS_Setter
 
 [![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
-[![language](https://github.com/nanqinlang/SVG/blob/master/language-shell-blue.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
-[![author](https://github.com/nanqinlang/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
-[![license](https://github.com/ahmadchen/SVG/blob/master/license-GPLv3-orange.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
+[![language](https://github.com/ahmadchen/SVG/blob/master/language-shell-blue.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
+[![author](https://github.com/ahmadchen/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/ahmadchen/files-projector/CloudFlare_DNS_Record)
 
 Script to set DDNS Record via [CloudFlare](https://www.cloudflare.com)
 
